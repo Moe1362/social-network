@@ -62,8 +62,7 @@ Each endpoint must include the necessary data in the request body or URL paramet
 https://drive.google.com/file/d/1n-s6WaoeUHRGgJSldYLiPOClhjAOoseh/view
 
 ## License & Copyright ©
-#
-  
- MIT License
 
-#
+MIT License
+
+
